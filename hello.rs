@@ -4,6 +4,7 @@ fn main() {
     let b = 2;
     println!("{}", a);
     println!("{}", b);
+    println!("hello world again");
     let mut total = 0;
     for i in 1..=200 {
         total += i;
